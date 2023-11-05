@@ -35,7 +35,7 @@ class SignUpScreenViewModel @Inject constructor(
             }
             is SignUpScreenEvents.RepeatedPasswordChanged -> {
                 _signUpScreenState.value = _signUpScreenState.value.copy(
-                    email = event.repeatedPassword,
+                    repeatedPassword = event.repeatedPassword,
                 )
             }
             is SignUpScreenEvents.AcceptTerms -> {
