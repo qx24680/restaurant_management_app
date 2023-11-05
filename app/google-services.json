@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "153747556046",
+    "project_id": "restaurantmanagemetapp",
+    "storage_bucket": "restaurantmanagemetapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153747556046:android:0dc8805e7ebcd6fc74f29f",
+        "android_client_info": {
+          "package_name": "com.restaurantmanagementapp.practicefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrldpw7h0ov2A7b579yhhW3TwQG2PFYRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
